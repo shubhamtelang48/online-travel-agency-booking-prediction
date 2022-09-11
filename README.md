@@ -27,17 +27,17 @@ Machine learning: using Python -Random Forests,Bagging and gradient boosting wit
 
 ## Finding
 
--The 219 id number country has largest obervation which is 61%.
--The data is anonymized, so determining the exact country or city to which a consumer plans to travel to is not possible.
--Out of those 61% , 58% of searches are made by consumers also located in same country.
--Therefore, to improve the computational efficiency, we are going to train independent models on 219 country id visitors . 
--Both booking rate(2.8%) and click through rate (4.3%) are extremely low. So, the class are very imbalanced.so we balanced this features by using oversanpling technique
--The most common search adults count is 2-adults
--The most common property star rating is 3 stars. 
--More than 73% of the properties are brand properties
--Around 54% of searches contain staying at Saturday.
--On average, the price_usd that received a click or booking is always lower than those of did not get a click or booking.
--Gradient Boosting algorithm gives best results.
+- The 219 id number country has largest obervation which is 61%.
+- The data is anonymized, so determining the exact country or city to which a consumer plans to travel to is not possible.
+- Out of those 61% , 58% of searches are made by consumers also located in same country.
+- Therefore, to improve the computational efficiency, we are going to train independent models on 219 country id visitors . 
+- Both booking rate(2.8%) and click through rate (4.3%) are extremely low. So, the class are very imbalanced.so we balanced this features by using oversanpling technique
+- The most common search adults count is 2-adults
+- The most common property star rating is 3 stars. 
+- More than 73% of the properties are brand properties
+- Around 54% of searches contain staying at Saturday.
+- On average, the price_usd that received a click or booking is always lower than those of did not get a click or booking.
+- Gradient Boosting algorithm gives best results.
 
 
 
