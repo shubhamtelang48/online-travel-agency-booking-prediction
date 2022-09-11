@@ -1,7 +1,14 @@
 
-# Online Travel Agency Booking Prediction
+## Online Travel Agency Booking Prediction
 
 The booking process has changed dramatically over the past decade, with more guests choosing to book online rather than direct. While the accessibility of online travel agencies may increase exposure and demand for many hotels, it has been met with an increase in cancellation rates. While cancellations are a familiar foe of the hotel industry, it has been the advent of the "risk free cancellations" campaign put on by online travel agencies that have made it a damaging statistic worthy of a second look.
+
+## Overview
+The project comprises all steps of Data Science work broken down as follows:
+
+Data collection and wangling: done in Jupyter Notebook
+Exploratory Data Analysis: using python for statistical data analysis
+Machine learning: using Python -Random Forests,Bagging and gradient boosting with scikit-learn in Jupyter Notebook
 
 
 ## Roadmap
