@@ -13,9 +13,9 @@ Machine learning: using Python -Random Forests,Bagging and gradient boosting wit
 
 ## Roadmap
 
-- Firstly we have to import the pandas,numpy,matplotlib,seabron for EDA purpose
-- Get the dataset from kaggle and with help of pandas dataframe we read the csv file
-- Find any null values presents in dataset if yes then drop the null value or replace with mean of respective column.
+- Firstly we have to import the pandas,numpy,matplotlib,seabron libraries for EDA purpose
+- Get the dataset from kaggle and with help of pandas dataframe and read the csv file
+- Find any null values presents in dataset if yes then drop the null value or replace with mean of respective column and also find outlier,replaced with mean or mode.
 - After that we find that it is the imbalanced dataset so we have to balanced the dataset.
 - Then we have to do feature engineering.
   After feature engineering we have to do normalization.
