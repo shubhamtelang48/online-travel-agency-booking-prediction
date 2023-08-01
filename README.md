@@ -42,7 +42,7 @@ Machine learning: using Python -Random Forests,Bagging and gradient boosting wit
 
 
 ## 🛠 Skills
-python,data vidualization,sklearn
+python,data vidualization,Machine Learning Algorithms, Feature Engineering, sklearn.
 
 
 
